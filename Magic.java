@@ -13,4 +13,4 @@ public class Magic {
 	}
 }
 
-  /*Recreate this project using only two variables: myNumber and      magicNumber. Use your understanding of compound assignment operators to recreate the above program by only manipulating magicNumber.*/ 
+  /*Recreate this project using only two variables: myNumber and magicNumber. Use compound assignment operators to recreate the above program by only manipulating magicNumber.*/ 
